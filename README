@@ -1,0 +1,1 @@
+Python script that continuously polls the Vaccine Spotter Very Beta API to query for new appointments within a given search radius of a given location and alerts the user.
