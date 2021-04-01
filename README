@@ -1,1 +1,4 @@
 Python script that continuously polls the Vaccine Spotter Very Beta API to query for new appointments within a given search radius of a given location and alerts the user.
+
+To set up python dependencies:
+Run "pipenv install" followed by "pipenv shell" from the vaccine_spotter_alerts directory.
